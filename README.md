@@ -1,50 +1,105 @@
-# Welcome to your Expo app 👋
+<div align="center">
+  <br />
+      <img src="https://github.com/user-attachments/assets/9f32ce6f-dab5-43b4-a5b6-c4ceee316b20 " alt="Project Banner" />
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+  <br />
 
-## Get started
+<img src="https://skills-icons.vercel.app/api/icons?i=reactnative,expo,ts,tailwindcss,appwrite" />
 
-1. Install dependencies
+  <h3 align="center">X  Mobile Application</h3>
 
-   ```bash
-   npm install
-   ```
+  <div align="center">
+     A X (Twitter) Mobile Application simplified and build by IryDev.
+    </div>
+</div>
 
-2. Start the app
+## 📋 <a name="table">Table of Contents</a>
 
-   ```bash
-    npx expo start
-   ```
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. ⚡ [Quick Start](#quick-start)
+5. 🚀 [More](#more)
 
-In the output, you'll find options to open the app in a
+## <a name="introduction">🤖 Introduction</a>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Built with React Native for seamless user experiences, Animatable for captivating animations, and integrated with the dependable backend systems of Appwrite,
+this app showcases impressive design and functionality, enabling seamless sharing of AI videos within the community.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-## Get a fresh project
+- React Native
+- Expo
+- Typescript
+- Nativewind
+- Appwrite
 
-When you're ready, run:
+## <a name="features">🔋 Features</a>
+
+👉 **Onboarding Screen**: Engaging graphics and clear instructions welcome users to the app.
+
+👉 **Robust Authentication & Authorization System**: Secure email login safeguards user accounts.
+
+👉 **Dynamic Home Screen with Animated Flat List**: Smoothly animated flat list showcases the latest videos for seamless browsing.
+
+👉 **Pull-to-Refresh Functionality**: Users can refresh content with a simple pull gesture for up-to-date information.
+
+👉 **Full-Text Search Capability**: Efficiently search through videos with real-time suggestions and instant results.
+
+👉 **Tab Navigation**: Navigate between sections like Home, Search, and Profile with ease using tab navigation.
+
+👉 **Post Creation Screen for Uploading Media**: Upload video and image posts directly from the app with integrated media selection.
+
+👉 **Profile Screen with Detailed Insights**: View account details and activity, including uploaded videos and follower count, for a personalized experience.
+
+👉 **Responsiveness**: Smooth performance and adaptability across various devices and screen sizes for a consistent user experience.
+
+and many more, including code architecture and reusability
+
+## <a name="quick-start">⚡ Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [pnpm](https://pnpm.io/) (Performant Node Package Manager)
+
+**Cloning the Repository**
 
 ```bash
-npm run reset-project
+git clone https://github.com/IryDev/x-clone.git
+cd x-clone
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+**Installation**
 
-## Learn more
+Install the project dependencies using npm:
 
-To learn more about developing your project with Expo, look at the following resources:
+```bash
+pnpm install
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+**Running the Project**
 
-## Join the community
+```bash
+pnpm expo start
+```
 
-Join our community of developers creating universal apps.
+**Expo Go**
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Download the [Expo Go](https://expo.dev/go) app onto your device, then use it to scan the QR code from Terminal and run.
+
+## <a name="more">🚀 More </a>
+**If you want to see more of my creations**
+
+Want to see more of projet ? Check my portfolio website to discover more or contact me if you want to collaborate on a project.
+
+<br />
+    <a href="https://rey-kosso.com/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/e73daceb-27ac-49cd-ad81-c6ea53d53f15" alt="Project Bann  er">
+    </a>
+<br />
